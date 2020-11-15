@@ -16,6 +16,7 @@ This calendar is desktop and mobile compatible.
 
 # Deployment
 
+URL: https://priteshpatel823.github.io/Work-Day-Planner/
 
 # Built With
 
